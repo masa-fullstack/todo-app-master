@@ -15,7 +15,7 @@ const Layout: React.FC<Props> = ({ children, title = 'Default title' }) => {
         {children}
       </main>
       <footer className="w-full h-6 flex justify-center item-center text-gray-400 mb-10">
-        <div className="w-2/6 border-t text-center pt-5">
+        <div className="border-t text-center pt-5">
           created by masa @ DevChallenges.io
         </div>
       </footer>

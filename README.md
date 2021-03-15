@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Windbnb</h1>
+<h1 align="center">todo</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://windbnb-master-sigma.vercel.app/">
+    <a href="https://todo-app-master-puce.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD">
+    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
       Challenge
     </a>
   </h3>
@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](./images/demo.jpg)
+![screenshot](./images/demo.png)
 
 Developed with NextJS + Tailwindcss.<br/>
 <br/>
@@ -50,7 +50,7 @@ Thanks for viewing :)
 
 - [NextJS](https://nextjs.org/)
 - [NextJS Typescript Boilerplate](https://github.com/vercel/next.js/tree/master/examples/with-typescript-eslint-jest)
-- [React Select](https://react-select.com/home)
+- [react-tabs](https://github.com/reactjs/react-tabs)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Docker](https://www.docker.com/)
@@ -67,10 +67,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/masa-fullstack/windbnb-master
+$ git clone https://github.com/masa-fullstack/todo-app-master
 
 # Change directory
-$ cd windbnb-master
+$ cd todo-app-master
 
 ```
 
@@ -88,7 +88,6 @@ $ docker-compose up
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
 - [Tailwind CHEAT SHEET](https://nerdcave.com/tailwind-cheat-sheet)
-- [【React-Select】How to customize label and value](https://qiita.com/Doarakko/items/e25af1989844fce85ed8)
 
 ## Contact
 
